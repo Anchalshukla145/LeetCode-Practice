@@ -14,18 +14,9 @@
  * }
  */
 class Solution {
-    void preorder(TreeNode root,List<Integer>arr){
-        if(root==null){arr.add(null); return ;}
-        arr.add(root.val);
-        preorder(root.left, arr);
-        preorder(root.right,arr);
-    }
-
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        List<Integer> arr1=new ArrayList<>();
-        List<Integer> arr2=new ArrayList<>();
-        preorder(p,arr1);
-        preorder(q,arr2);
-         return arr1.equals(arr2);
+        if(p==null && q==null)return true;
+        if(p==null || q==null || p.val!=q.val)return false;
+        return isSameTree(p.left,q.left) && isSameTree(p.right,q.right);
     }
 }
