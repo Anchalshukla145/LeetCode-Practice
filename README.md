@@ -33,6 +33,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0007-reverse-integer) |
+| [2396-strictly-palindromic-number](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
