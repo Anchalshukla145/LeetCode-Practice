@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0007-reverse-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -73,6 +75,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
