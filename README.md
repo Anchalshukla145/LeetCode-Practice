@@ -87,4 +87,12 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
