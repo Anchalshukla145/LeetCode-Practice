@@ -17,6 +17,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 ## Database
 |  |
@@ -37,6 +38,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
