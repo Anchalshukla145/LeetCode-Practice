@@ -50,6 +50,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -118,6 +119,7 @@
 | [0013-roman-to-integer](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0392-is-subsequence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Memoization
 |  |
 | ------- |
