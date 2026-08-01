@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0896-monotonic-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
