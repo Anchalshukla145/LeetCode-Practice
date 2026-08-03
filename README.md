@@ -49,6 +49,7 @@
 | [0002-add-two-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -121,6 +122,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
@@ -143,9 +145,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
