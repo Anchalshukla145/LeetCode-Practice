@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0896-monotonic-array) |
@@ -96,6 +97,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -111,6 +113,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [2396-strictly-palindromic-number](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -160,4 +163,12 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
