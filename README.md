@@ -126,6 +126,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
