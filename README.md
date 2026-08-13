@@ -39,6 +39,7 @@
 | [0620-not-boring-movies](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1148-article-views-i) |
+| [1484-group-sold-products-by-the-date](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1484-group-sold-products-by-the-date) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 ## Linked List
 |  |
