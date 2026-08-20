@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0118-pascals-triangle) |
+| [0239-sliding-window-maximum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
@@ -158,6 +159,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -175,4 +177,20 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
