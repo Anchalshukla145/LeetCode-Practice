@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0239-sliding-window-maximum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -187,6 +190,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -199,4 +203,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
