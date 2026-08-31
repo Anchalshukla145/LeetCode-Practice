@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -206,8 +209,14 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
