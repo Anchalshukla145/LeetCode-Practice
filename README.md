@@ -20,6 +20,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
