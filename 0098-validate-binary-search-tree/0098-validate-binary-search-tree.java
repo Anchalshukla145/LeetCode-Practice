@@ -14,12 +14,17 @@
  * }
  */
 class Solution {
-    static boolean validate(TreeNode root , Integer low ,Integer high){
-        if(root==null)return true;
-        if((low!=null &&root.val<=low) || (high!=null &&root.val >=high))return false;
-        return validate(root.left,low,root.val) && validate(root.right,root.val,high);
+    // static boolean validate(TreeNode root , Integer low ,Integer high){
+    //     if(root==null)return true;
+    //     if((low!=null &&root.val<=low) || (high!=null &&root.val >=high))return false;
+    //     return validate(root.left,low,root.val) && validate(root.right,root.val,high);
+    // }
+    static boolean help(TreeNode root ,Integer low ,Integer high){
+  if(root==null)return true;
+        if(low!=null && root.val<=low || high!=null && high<=root.val)return false;
+        return help(root.left,low,root.val)&&help(root.right,root.val,high);
     }
     public boolean isValidBST(TreeNode root) {
-        return validate(root , null ,null);
+      return help(root,null,null);
     }
 }
