@@ -81,6 +81,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -88,6 +89,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -100,6 +102,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -154,6 +157,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
