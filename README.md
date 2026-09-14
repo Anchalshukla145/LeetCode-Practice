@@ -28,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
@@ -151,6 +152,7 @@
 | [0038-count-and-say](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0392-is-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -207,6 +209,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
