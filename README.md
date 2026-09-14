@@ -67,6 +67,7 @@
 | [0067-add-binary](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -239,4 +240,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
