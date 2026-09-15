@@ -99,6 +99,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -257,4 +259,9 @@
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
