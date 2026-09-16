@@ -15,6 +15,7 @@
 | [0496-next-greater-element-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0896-monotonic-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
@@ -268,5 +269,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
