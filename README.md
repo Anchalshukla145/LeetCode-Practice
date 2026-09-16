@@ -20,6 +20,7 @@
 | [1260-shift-2d-grid](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -264,4 +265,8 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
