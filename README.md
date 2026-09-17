@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0724-find-pivot-index) |
@@ -33,6 +34,7 @@
 | [0076-minimum-window-substring](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
@@ -269,6 +271,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
