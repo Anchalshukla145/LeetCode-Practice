@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0169-majority-element) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0392-is-subsequence) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Anchalshukla145/LeetCode-Practice/tree/master/0169-majority-element) |
 ## Counting
 |  |
